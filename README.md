@@ -1,7 +1,7 @@
 # Hirst-Panting-Python
 
 <h2>To generate a grid of randomly colored dots using turtle graphics, simulating a modern art piece.</h2>
-
+<br>
 <h2>Modules Used:</h2>
 <h3>turtle – For drawing the graphics (built-in)</h3>
 <h3>random – For randomly selecting a color for each dot (built-in)</h3>
