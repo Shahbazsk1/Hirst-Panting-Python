@@ -5,7 +5,7 @@
 <h2>Modules Used:</h2>
 <h3>turtle – For drawing the graphics (built-in)</h3>
 <h3>random – For randomly selecting a color for each dot (built-in)</h3>
-
+<br>
 <h3>working of code:</h3>
 <h3>setup:</h3>
 <p>The screen color mode is set to RGB (0–255).<br>
