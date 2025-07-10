@@ -1,11 +1,12 @@
 # Hirst-Panting-Python
-<h2>To generate a grid of randomly colored dots using turtle graphics, simulating a modern art piece.</h2><hr>
+
+<h2>To generate a grid of randomly colored dots using turtle graphics, simulating a modern art piece.</h2>
 
 <h2>Modules Used:</h2>
 <h3>turtle – For drawing the graphics (built-in)</h3>
 <h3>random – For randomly selecting a color for each dot (built-in)</h3>
-<hr>
-<h2>working of code:</h2>
+
+<h3>working of code:</h3>
 <h3>setup:</h3>
 <p>The screen color mode is set to RGB (0–255).<br>
 A turtle is created, hidden, and moved to the starting position.</p>
